@@ -8,7 +8,7 @@
 
 - [Problem Statement](#problem-statement)
 - [How It Works](#how-it-works)
-- [Screenshots]
+- [Screenshots](#screenshots)
 - [AI Methodology](#ai-methodology)
 - [App Blocking – Earn Your Time](#app-blocking--earn-your-time)
 - [Architecture](#architecture)
