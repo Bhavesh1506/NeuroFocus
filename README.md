@@ -485,10 +485,3 @@ data class ScoringWeights(
 
 ---
 
-## License
-
-This project is developed for educational purposes as part of a college project on AI-based digital wellbeing intervention systems.
-
----
-
-*Built with ❤️ using Kotlin, Jetpack Compose, and Clean Architecture*
