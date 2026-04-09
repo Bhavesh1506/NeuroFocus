@@ -73,6 +73,12 @@ Digital addiction is a growing concern, especially among students. Excessive soc
 
 ---
 
+## Screenshots
+<img width="495" height="981" alt="image" src="https://github.com/user-attachments/assets/4877d21a-b2e0-440e-befa-04c30673877f" />
+<img width="380" height="805" alt="image" src="https://github.com/user-attachments/assets/012547fb-9514-417e-883d-0b6a5505ae2f" />
+
+
+
 ## AI Methodology
 
 ### Why This Qualifies as AI
@@ -295,9 +301,7 @@ NeuroFocus implements an **XP-gated app locking system** using Android's `Access
 
 ---
 
-## Screenshots & Flow
-
-### User Flow
+## User Flow
 
 ```
 App Launch
