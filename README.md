@@ -76,8 +76,9 @@ Digital addiction is a growing concern, especially among students. Excessive soc
 ## Screenshots
 <img width="495" height="981" alt="image" src="https://github.com/user-attachments/assets/4877d21a-b2e0-440e-befa-04c30673877f" />
 <img width="380" height="805" alt="image" src="https://github.com/user-attachments/assets/012547fb-9514-417e-883d-0b6a5505ae2f" />
-
-
+<img width="516" height="860" alt="image" src="https://github.com/user-attachments/assets/6779ad64-366b-45ac-b47e-1974aba88a09" />
+<img width="440" height="996" alt="image" src="https://github.com/user-attachments/assets/78c80fd7-c90b-4dc3-a522-bec7c69f7f94" />
+<img width="419" height="931" alt="image" src="https://github.com/user-attachments/assets/9923f12d-be8b-4998-afd0-4bfc5cd2d083" />
 
 ## AI Methodology
 
