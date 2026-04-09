@@ -8,12 +8,13 @@
 
 - [Problem Statement](#problem-statement)
 - [How It Works](#how-it-works)
+- [Screenshots]
 - [AI Methodology](#ai-methodology)
 - [App Blocking – Earn Your Time](#app-blocking--earn-your-time)
 - [Architecture](#architecture)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
-- [Screenshots & Flow](#screenshots--flow)
+- [User Flow](#screenshots--flow)
 - [Setup & Running](#setup--running)
 - [Permissions Required](#permissions-required)
 - [Project Structure](#project-structure)
